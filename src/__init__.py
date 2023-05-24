@@ -1,0 +1,1 @@
+"""Adds package structure."""
