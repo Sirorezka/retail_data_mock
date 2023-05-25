@@ -1,8 +1,8 @@
-# What it is about
+## What it is about
 
 The code generates realistic mock of the retail data: customer database, product catalog, purchases detalization. For example you can mimick datasets from FMCG, Apparel, Beauty and etc. On opposite to filling databases with random numbers this mock is simluating real customers actions.
 
-# Description
+## Description
 
 On opposite to most data mockers that generate tables filled with very random data this code tries to replicate real life customer patterns (described below). This makes output data more plausible when you are showing it in dashboards or you are developing custom reports without real life dataset.
 
@@ -19,11 +19,11 @@ Simulated customers behaviour:
 - Customers are prone to buy items that belongs to specific categories / brands. For example men are more often buying "men clothes" and women - "beauty" products.
 - Customers have lifetime and will stop transacting after X months.
 
-# Editing configs
+## Editing configs
 
 Each of the mocker have it's own config, you can check the dictionary with parameters in the code.
 
-# Example of Outputs
+## Example of Outputs
 
 Three parquet files generated based on given parameters.
 
@@ -36,7 +36,7 @@ Three parquet files generated based on given parameters.
 3. Customer Purchases (Baskets and individual transactions)
 ![Alt text](img/tbl_transactions.png)
 
-# Running the Code
+## Running the Code
 ```
 python main.py
 ```
