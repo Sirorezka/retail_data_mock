@@ -6,7 +6,7 @@ The code generates realistic mock data of purchases/ baskets of customers in ret
 
 On opposite to most data mockers that generate tables filled with very random data this code tries to replicate real life customer patterns (described below). This makes output data more plausible when you are showing it in dashboards or you are developing custom reports without real life dataset.
 
-ALl calculations are vectorized, thus code allows to generate millions of customers in the most efficient manner.
+All calculations are vectorized, thus code allows to generate millions of customers in the most efficient manner.
 
 
 Simulated customers behaviour:
