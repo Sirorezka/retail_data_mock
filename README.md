@@ -19,6 +19,9 @@ Simulated customers behaviour:
 - Customers are prone to buy items that belongs to specific categories / brands. For example men are more often buying "men clothes" and women - "beauty" products.
 - Customers have lifetime and will stop transacting after X months.
 
+# Editing configs
+
+Each of the mocker have it's own config, you can check the dictionary with parameters in the code.
 
 # Example of Outputs
 
