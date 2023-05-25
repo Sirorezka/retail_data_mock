@@ -20,7 +20,7 @@ Simulated customers behaviour:
 - Customers have lifetime and will stop transacting after X months.
 
 
-# Running the Code
+# Example of Outputs
 
 Three parquet files generated based on given parameters.
 
@@ -33,7 +33,7 @@ Three parquet files generated based on given parameters.
 3. Customer Purchases (Baskets and individual transactions)
 ![Alt text](img/tbl_transactions.png)
 
-# How to get outputs
+# Running the Code
 ```
 python main.py
 ```
