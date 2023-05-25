@@ -1,6 +1,6 @@
 # What it is about
 
-The code generates realistic mock data of purchases/ baskets of customers in retail (for example FMCG, Apparel, Beauty and etc). 
+The code generates realistic mock of the retail data: customer database, product catalog, purchases detalization. For example you can mimick datasets from FMCG, Apparel, Beauty and etc. On opposite to filling databases with random numbers this mock is simluating real customers actions.
 
 # Description
 
