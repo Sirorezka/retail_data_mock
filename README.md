@@ -40,3 +40,6 @@ Three parquet files generated based on given parameters.
 ```
 python main.py
 ```
+
+## Questions and feedback
+Post as issues to the codeabase or contact via links in the profile
