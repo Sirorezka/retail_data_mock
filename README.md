@@ -20,7 +20,7 @@ Simulated customers behaviour:
 - Customers have lifetime and will stop transacting after X months.
 
 
-# Outputs
+# Running the Code
 
 Three parquet files generated based on given parameters.
 
